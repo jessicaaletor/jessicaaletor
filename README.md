@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jessicaaletor
+- 👋 Hi, I’m Jessica
 - 👀 I’m interested in Python programming and AI
 - 🌱 I’m currently learning Data Science and Artificial Intelligence at a university.
 - 💞️ I’m looking to collaborate on coding, Python, projects, group study and all things tech 
